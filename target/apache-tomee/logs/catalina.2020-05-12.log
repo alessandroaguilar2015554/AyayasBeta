@@ -1,0 +1,265 @@
+12-May-2020 15:30:54.706 INFORMACIÓN [main] org.apache.openejb.persistence.PersistenceBootstrap.getDefaultProvider Default JPA Provider changed to org.eclipse.persistence.jpa.PersistenceProvider
+12-May-2020 15:30:55.208 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version:        Apache Tomcat (TomEE)/8.5.11 (7.0.3)
+12-May-2020 15:30:55.208 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Server built:          Jan 10 2017 21:02:52 UTC
+12-May-2020 15:30:55.208 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Server number:         8.5.11.0
+12-May-2020 15:30:55.208 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Name:               Windows 10
+12-May-2020 15:30:55.208 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Version:            10.0
+12-May-2020 15:30:55.208 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Architecture:          amd64
+12-May-2020 15:30:55.208 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Java Home:             C:\Program Files\Java\jdk1.8.0_181\jre
+12-May-2020 15:30:55.208 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Version:           1.8.0_181-b13
+12-May-2020 15:30:55.208 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Vendor:            Oracle Corporation
+12-May-2020 15:30:55.209 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:         C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:30:55.209 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:         C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:30:55.209 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+12-May-2020 15:30:55.209 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+12-May-2020 15:30:55.209 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+12-May-2020 15:30:55.209 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dtomee.remote.support=true
+12-May-2020 15:30:55.209 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.system.apps=false
+12-May-2020 15:30:55.209 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.jsp-development=true
+12-May-2020 15:30:55.209 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.config.file=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\conf\logging.properties
+12-May-2020 15:30:55.209 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -javaagent:C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\lib\openejb-javaagent.jar
+12-May-2020 15:30:55.210 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-May-2020 15:30:55.210 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.io.tmpdir=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\temp
+12-May-2020 15:30:55.210 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.endorsed.dirs=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\endorsed
+12-May-2020 15:30:55.210 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.base=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:30:55.210 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.home=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:30:55.210 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.ext.dirs=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\lib
+12-May-2020 15:30:55.210 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+12-May-2020 15:30:55.210 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -ea
+12-May-2020 15:30:55.210 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: C:\Program Files\Java\jdk1.8.0_181\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Users\aless\AppData\Local\Microsoft\WindowsApps;C:\Users\aless\AppData\Local\Microsoft\WindowsApps;C:\Users\aless\AppData\Roaming\npm;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\aless\AppData\Local\Programs\Microsoft VS Code\bin;.
+12-May-2020 15:30:55.405 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["http-nio-8080"]
+12-May-2020 15:30:55.427 GRAVE [main] sun.reflect.NativeMethodAccessorImpl.invoke Failed to initialize end point associated with ProtocolHandler ["http-nio-8080"]
+ java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:972)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:237)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:558)
+	at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:65)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:968)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:549)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:875)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:606)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:629)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:311)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:494)
+
+12-May-2020 15:30:55.428 GRAVE [main] sun.reflect.NativeMethodAccessorImpl.invoke No pude inicializar el conector [Connector[HTTP/1.1-8080]]
+ org.apache.catalina.LifecycleException: Failed to initialize component [Connector[HTTP/1.1-8080]]
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:112)
+	at org.apache.catalina.core.StandardService.initInternal(StandardService.java:549)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:875)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:606)
+	at org.apache.catalina.startup.Catalina.load(Catalina.java:629)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:311)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:494)
+Caused by: org.apache.catalina.LifecycleException: Falló la inicialización del manejador de protocolo
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:970)
+	at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:107)
+	... 12 more
+Caused by: java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:210)
+	at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:972)
+	at org.apache.tomcat.util.net.AbstractJsseEndpoint.init(AbstractJsseEndpoint.java:237)
+	at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:558)
+	at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:65)
+	at org.apache.catalina.connector.Connector.initInternal(Connector.java:968)
+	... 13 more
+
+12-May-2020 15:30:55.429 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["ajp-nio-8009"]
+12-May-2020 15:30:55.742 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Using a shared selector for servlet write/read
+12-May-2020 15:30:56.060 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.remote.support=true'
+12-May-2020 15:30:56.071 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+12-May-2020 15:30:56.170 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+12-May-2020 15:30:56.171 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB http://tomee.apache.org/
+12-May-2020 15:30:56.171 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Tue May 12 15:30:56 CST 2020
+12-May-2020 15:30:56.171 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2017 (C) Apache OpenEJB Project, All Rights Reserved.
+12-May-2020 15:30:56.171 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 7.0.3
+12-May-2020 15:30:56.171 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20170307
+12-May-2020 15:30:56.171 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 10:02
+12-May-2020 15:30:56.171 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+12-May-2020 15:30:56.171 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:30:56.172 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:30:56.175 INFORMACIÓN [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@4313f5bc
+12-May-2020 15:30:56.175 INFORMACIÓN [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+12-May-2020 15:30:56.218 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is 'C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\conf\tomee.xml'
+12-May-2020 15:30:56.283 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+12-May-2020 15:30:56.287 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+12-May-2020 15:30:56.293 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.system.apps=false'
+12-May-2020 15:30:56.305 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+12-May-2020 15:30:56.308 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+12-May-2020 15:30:56.366 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+12-May-2020 15:30:56.440 INFORMACIÓN [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf)
+12-May-2020 15:30:56.642 INFORMACIÓN [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+12-May-2020 15:30:57.098 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+12-May-2020 15:30:57.098 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+12-May-2020 15:30:57.102 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.start -------
+12-May-2020 15:30:57.102 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+12-May-2020 15:30:57.103 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initialization processed in 2361 ms
+12-May-2020 15:30:57.210 INFORMACIÓN [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+12-May-2020 15:30:57.211 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+12-May-2020 15:30:57.218 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Arrancando servicio Catalina
+12-May-2020 15:30:57.218 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet Engine: Apache Tomcat (TomEE)/8.5.11 (7.0.3)
+12-May-2020 15:30:57.363 INFORMACIÓN [Catalina-startStop-1] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesRmiTargets] to [true] as the property does not exist.
+12-May-2020 15:30:57.389 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler [ajp-nio-8009]
+12-May-2020 15:30:57.400 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server startup in 296 ms
+12-May-2020 15:36:31.979 INFORMACIÓN [main] org.apache.openejb.persistence.PersistenceBootstrap.getDefaultProvider Default JPA Provider changed to org.eclipse.persistence.jpa.PersistenceProvider
+12-May-2020 15:36:32.441 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version:        Apache Tomcat (TomEE)/8.5.11 (7.0.3)
+12-May-2020 15:36:32.441 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Server built:          Jan 10 2017 21:02:52 UTC
+12-May-2020 15:36:32.441 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Server number:         8.5.11.0
+12-May-2020 15:36:32.441 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Name:               Windows 10
+12-May-2020 15:36:32.441 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Version:            10.0
+12-May-2020 15:36:32.441 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Architecture:          amd64
+12-May-2020 15:36:32.441 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Java Home:             C:\Program Files\Java\jdk1.8.0_181\jre
+12-May-2020 15:36:32.441 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Version:           1.8.0_181-b13
+12-May-2020 15:36:32.441 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Vendor:            Oracle Corporation
+12-May-2020 15:36:32.441 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:         C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:36:32.441 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:         C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:36:32.442 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+12-May-2020 15:36:32.442 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+12-May-2020 15:36:32.442 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+12-May-2020 15:36:32.442 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dtomee.remote.support=true
+12-May-2020 15:36:32.442 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.system.apps=false
+12-May-2020 15:36:32.442 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.jsp-development=true
+12-May-2020 15:36:32.442 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.config.file=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\conf\logging.properties
+12-May-2020 15:36:32.442 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -javaagent:C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\lib\openejb-javaagent.jar
+12-May-2020 15:36:32.442 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-May-2020 15:36:32.442 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.io.tmpdir=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\temp
+12-May-2020 15:36:32.443 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.endorsed.dirs=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\endorsed
+12-May-2020 15:36:32.443 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.base=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:36:32.443 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.home=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:36:32.443 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.ext.dirs=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\lib
+12-May-2020 15:36:32.443 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+12-May-2020 15:36:32.443 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -ea
+12-May-2020 15:36:32.443 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: C:\Program Files\Java\jdk1.8.0_181\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Users\aless\AppData\Local\Microsoft\WindowsApps;C:\Users\aless\AppData\Local\Microsoft\WindowsApps;C:\Users\aless\AppData\Roaming\npm;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\aless\AppData\Local\Programs\Microsoft VS Code\bin;.
+12-May-2020 15:36:32.645 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["http-nio-8080"]
+12-May-2020 15:36:33.043 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Using a shared selector for servlet write/read
+12-May-2020 15:36:33.048 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["ajp-nio-8009"]
+12-May-2020 15:36:33.056 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Using a shared selector for servlet write/read
+12-May-2020 15:36:33.373 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.remote.support=true'
+12-May-2020 15:36:33.383 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+12-May-2020 15:36:33.481 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+12-May-2020 15:36:33.482 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB http://tomee.apache.org/
+12-May-2020 15:36:33.482 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Tue May 12 15:36:33 CST 2020
+12-May-2020 15:36:33.482 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2017 (C) Apache OpenEJB Project, All Rights Reserved.
+12-May-2020 15:36:33.482 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 7.0.3
+12-May-2020 15:36:33.482 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20170307
+12-May-2020 15:36:33.482 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 10:02
+12-May-2020 15:36:33.482 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+12-May-2020 15:36:33.483 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:36:33.483 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:36:33.485 INFORMACIÓN [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@75329a49
+12-May-2020 15:36:33.485 INFORMACIÓN [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+12-May-2020 15:36:33.519 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is 'C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\conf\tomee.xml'
+12-May-2020 15:36:33.551 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+12-May-2020 15:36:33.552 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+12-May-2020 15:36:33.560 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.system.apps=false'
+12-May-2020 15:36:33.560 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+12-May-2020 15:36:33.569 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+12-May-2020 15:36:33.621 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+12-May-2020 15:36:33.687 INFORMACIÓN [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf)
+12-May-2020 15:36:33.901 INFORMACIÓN [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+12-May-2020 15:36:33.979 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+12-May-2020 15:36:33.979 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+12-May-2020 15:36:33.980 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.start -------
+12-May-2020 15:36:33.980 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+12-May-2020 15:36:33.980 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initialization processed in 1950 ms
+12-May-2020 15:36:34.015 INFORMACIÓN [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+12-May-2020 15:36:34.016 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+12-May-2020 15:36:34.020 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Arrancando servicio Catalina
+12-May-2020 15:36:34.020 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet Engine: Apache Tomcat (TomEE)/8.5.11 (7.0.3)
+12-May-2020 15:36:34.082 INFORMACIÓN [Catalina-startStop-1] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesRmiTargets] to [true] as the property does not exist.
+12-May-2020 15:36:34.098 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler [http-nio-8080]
+12-May-2020 15:36:34.108 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler [ajp-nio-8009]
+12-May-2020 15:36:34.115 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server startup in 134 ms
+12-May-2020 15:58:35.603 INFORMACIÓN [main] org.apache.openejb.persistence.PersistenceBootstrap.getDefaultProvider Default JPA Provider changed to org.eclipse.persistence.jpa.PersistenceProvider
+12-May-2020 15:58:36.100 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Server version:        Apache Tomcat (TomEE)/8.5.11 (7.0.3)
+12-May-2020 15:58:36.100 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Server built:          Jan 10 2017 21:02:52 UTC
+12-May-2020 15:58:36.100 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Server number:         8.5.11.0
+12-May-2020 15:58:36.100 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Name:               Windows 10
+12-May-2020 15:58:36.100 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke OS Version:            10.0
+12-May-2020 15:58:36.100 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Architecture:          amd64
+12-May-2020 15:58:36.100 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Java Home:             C:\Program Files\Java\jdk1.8.0_181\jre
+12-May-2020 15:58:36.100 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Version:           1.8.0_181-b13
+12-May-2020 15:58:36.100 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke JVM Vendor:            Oracle Corporation
+12-May-2020 15:58:36.100 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_BASE:         C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:58:36.100 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke CATALINA_HOME:         C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:58:36.100 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+12-May-2020 15:58:36.100 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+12-May-2020 15:58:36.100 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+12-May-2020 15:58:36.100 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dtomee.remote.support=true
+12-May-2020 15:58:36.101 INFORMACIÓN [main] sun.reflect.NativeMethodAccessorImpl.invoke Command line argument: -Dopenejb.system.apps=false
+12-May-2020 15:58:36.101 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dtomee.jsp-development=true
+12-May-2020 15:58:36.101 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.config.file=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\conf\logging.properties
+12-May-2020 15:58:36.101 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -javaagent:C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\lib\openejb-javaagent.jar
+12-May-2020 15:58:36.101 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+12-May-2020 15:58:36.101 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.io.tmpdir=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\temp
+12-May-2020 15:58:36.101 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Djava.endorsed.dirs=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\endorsed
+12-May-2020 15:58:36.101 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.base=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:58:36.101 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.home=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:58:36.101 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dcatalina.ext.dirs=C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\lib
+12-May-2020 15:58:36.107 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+12-May-2020 15:58:36.107 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Command line argument: -ea
+12-May-2020 15:58:36.107 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke La biblioteca nativa de Apache Tomcat basada en ARP que permite un rendimiento óptimo en entornos de desarrollo no ha sido hallada en java.library.path: C:\Program Files\Java\jdk1.8.0_181\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_181\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Users\aless\AppData\Local\Microsoft\WindowsApps;C:\Users\aless\AppData\Local\Microsoft\WindowsApps;C:\Users\aless\AppData\Roaming\npm;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Users\aless\AppData\Local\Programs\Microsoft VS Code\bin;.
+12-May-2020 15:58:36.740 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["http-nio-8080"]
+12-May-2020 15:58:37.006 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Using a shared selector for servlet write/read
+12-May-2020 15:58:37.008 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initializing ProtocolHandler ["ajp-nio-8009"]
+12-May-2020 15:58:37.012 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Using a shared selector for servlet write/read
+12-May-2020 15:58:37.271 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.remote.support=true'
+12-May-2020 15:58:37.280 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+12-May-2020 15:58:37.389 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+12-May-2020 15:58:37.390 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB http://tomee.apache.org/
+12-May-2020 15:58:37.390 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Tue May 12 15:58:37 CST 2020
+12-May-2020 15:58:37.390 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2017 (C) Apache OpenEJB Project, All Rights Reserved.
+12-May-2020 15:58:37.390 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 7.0.3
+12-May-2020 15:58:37.390 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20170307
+12-May-2020 15:58:37.390 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 10:02
+12-May-2020 15:58:37.391 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+12-May-2020 15:58:37.391 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:58:37.391 INFORMACIÓN [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee
+12-May-2020 15:58:37.393 INFORMACIÓN [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@75329a49
+12-May-2020 15:58:37.394 INFORMACIÓN [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+12-May-2020 15:58:37.428 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is 'C:\Users\aless\Desktop\escritorio Cosas V_2\escritorio cosas\vaadin things\app que sirve copia seguridad\projectvaadinapp_v8\target\apache-tomee\conf\tomee.xml'
+12-May-2020 15:58:37.468 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+12-May-2020 15:58:37.471 INFORMACIÓN [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+12-May-2020 15:58:37.475 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.system.apps=false'
+12-May-2020 15:58:37.475 INFORMACIÓN [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+12-May-2020 15:58:37.483 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+12-May-2020 15:58:37.564 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+12-May-2020 15:58:37.632 INFORMACIÓN [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf)
+12-May-2020 15:58:37.840 INFORMACIÓN [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+12-May-2020 15:58:37.920 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+12-May-2020 15:58:37.921 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+12-May-2020 15:58:37.921 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.start -------
+12-May-2020 15:58:37.921 INFORMACIÓN [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+12-May-2020 15:58:37.922 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Initialization processed in 2263 ms
+12-May-2020 15:58:37.952 INFORMACIÓN [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+12-May-2020 15:58:37.952 INFORMACIÓN [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+12-May-2020 15:58:37.958 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Arrancando servicio Catalina
+12-May-2020 15:58:37.958 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting Servlet Engine: Apache Tomcat (TomEE)/8.5.11 (7.0.3)
+12-May-2020 15:58:38.026 INFORMACIÓN [Catalina-startStop-1] org.apache.catalina.core.StandardContext.setClassLoaderProperty Unable to set the web application class loader property [clearReferencesRmiTargets] to [true] as the property does not exist.
+12-May-2020 15:58:38.045 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler [http-nio-8080]
+12-May-2020 15:58:38.065 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Starting ProtocolHandler [ajp-nio-8009]
+12-May-2020 15:58:38.074 INFORMACIÓN [main] sun.reflect.DelegatingMethodAccessorImpl.invoke Server startup in 151 ms
